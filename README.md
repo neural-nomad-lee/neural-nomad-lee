@@ -1,27 +1,87 @@
-## Hi there 👋, I'm Aleesha
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="Neural Nomad" />
+  <a href="https://github.com/AleeshaMufthi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C8CFF&center=true&vCenter=true&width=640&lines=NLP+%C2%B7+Deep+Learning+%C2%B7+AI+Agent;Planning+%C2%B7+Tool+Use+%C2%B7+Memory+%C2%B7+RAG;Building+things+that+actually+work" alt="typing" />
+  </a>
+</div>
 
-Self-taught developer with a passion for exploring the ever-evolving realm of technology. I enjoy delving into new and exciting projects that challenge my skills and push me to learn more.
-My goal is to contribute to open-source projects, enhance my problem-solving skills, and collaborate with developers around the world.
+### 你好，我是 Neural Nomad 👋
 
-### Tech Stack
-![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/-MoonModeler-4171B6?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAApElEQVR4AWMAgWrU9pF1gVGXYVWLhTSNrFsPAuUUxrFteGHXjOAoBjE8SHUU+TlPlmh8Z1O1CbDsDSBmwTaH+MiLTdTx2GgfQzgIjgFi3wbZfPFwDsBqDwwBhieGgfYIhDHBHqxGgdYJhhuxUaB1iFGXPVg1IGMjsFmgdeKMU+0WQPWxjGtbSh8dwDUtMwShN3AZ6Q0i2+hwBiDhOUOVmGyIVAAAAAElFTkSuQmCC&logoColor=white)
-![](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+> 被 loss 教育过，被梯度拯救过。
 
-## Competitive Programming Profiles
-- [LeetCode](https://leetcode.com/u/aleesha_mufthi/)
+- 🔭 **现在在折腾**：把 RAG 和 Agent 从 demo 推到能跑的系统——检索、重排、工具调用、失败重试、记忆
+- 🌱 **关注**：Agent 规划（Planning）/ 工具调用（Tool Use）/ 记忆（Memory）/ RAG / LLM 评测
+- 🎯 **目标**：AI Agent · LLM 应用工程师
+- 📍 北京
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=flat-square&logo=llama&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square&logo=dify&logoColor=white" alt="Dify" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+---
+
+### 🚀 精选项目
+
+| 项目 | 一句话 | 技术栈 |
+|:--|:--|:--|
+| [**RAG-Knowledge-Base**](https://github.com/AleeshaMufthi?tab=repositories) | 企业知识库问答：混合检索 + 重排 + 引用溯源 | Python · Milvus · bge · FastAPI |
+| [**Agent-Workflow**](https://github.com/AleeshaMufthi?tab=repositories) | 多步任务 Agent：规划、工具调用、失败重试与记忆 | LangGraph · Function Calling |
+| [**LLM-Finetune-Lab**](https://github.com/AleeshaMufthi?tab=repositories) | 指令微调与评测流水线 | LoRA · vLLM · evals |
+
+<!-- TODO: 三个项目链接先指向仓库列表；建好仓库后换成各自仓库地址 -->
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AleeshaMufthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleeshaMufthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AleeshaMufthi&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<!-- 统计卡依赖 vercel 系服务，国内访问慢可整块删除，不影响其它内容 -->
+
+---
+
+### 📚 最近在读
+
+- 《深入理解 AI Agent：设计原理与工程实践》
+- ReAct · Reflexion · Toolformer · Self-RAG
+
+---
+
+### 📫 找到我
+
+<div align="center">
+
+<a href="mailto:tuutreet@163.com"><img src="https://img.shields.io/badge/Email-tuutreet%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Neural%20Nomad-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="知乎" /></a>
+<img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Neural%20Nomad-07C160?style=flat-square&logo=wechat&logoColor=white" alt="公众号" />
+<a href="#"><img src="https://img.shields.io/badge/Blog-coming%20soon-111111?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleeshaMufthi&label=Profile%20views&color=6C8CFF&style=flat" alt="profile views" />
+  <br/>
+  <sub>Last updated: 2026-11-05 · 持续训练中</sub>
+</div>
