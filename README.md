@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/banner.svg" width="100%" alt="Neural Nomad" />
-  <a href="https://github.com/AleeshaMufthi">
+  <a href="https://github.com/neural-nomad-lee">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C8CFF&center=true&vCenter=true&width=640&lines=NLP+%C2%B7+Deep+Learning+%C2%B7+AI+Agent;Planning+%C2%B7+Tool+Use+%C2%B7+Memory+%C2%B7+RAG;Building+things+that+actually+work" alt="typing" />
   </a>
 </div>
@@ -39,9 +39,9 @@
 
 | 项目 | 一句话 | 技术栈 |
 |:--|:--|:--|
-| [**RAG-Knowledge-Base**](https://github.com/AleeshaMufthi?tab=repositories) | 企业知识库问答：混合检索 + 重排 + 引用溯源 | Python · Milvus · bge · FastAPI |
-| [**Agent-Workflow**](https://github.com/AleeshaMufthi?tab=repositories) | 多步任务 Agent：规划、工具调用、失败重试与记忆 | LangGraph · Function Calling |
-| [**LLM-Finetune-Lab**](https://github.com/AleeshaMufthi?tab=repositories) | 指令微调与评测流水线 | LoRA · vLLM · evals |
+| [**RAG-Knowledge-Base**](https://github.com/neural-nomad-lee?tab=repositories) | 企业知识库问答：混合检索 + 重排 + 引用溯源 | Python · Milvus · bge · FastAPI |
+| [**Agent-Workflow**](https://github.com/neural-nomad-lee?tab=repositories) | 多步任务 Agent：规划、工具调用、失败重试与记忆 | LangGraph · Function Calling |
+| [**LLM-Finetune-Lab**](https://github.com/neural-nomad-lee?tab=repositories) | 指令微调与评测流水线 | LoRA · vLLM · evals |
 
 <!-- TODO: 三个项目链接先指向仓库列表；建好仓库后换成各自仓库地址 -->
 
@@ -50,12 +50,12 @@
 ### 📊 GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AleeshaMufthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleeshaMufthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neural-nomad-lee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neural-nomad-lee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AleeshaMufthi&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=neural-nomad-lee&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <!-- 统计卡依赖 vercel 系服务，国内访问慢可整块删除，不影响其它内容 -->
@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleeshaMufthi&label=Profile%20views&color=6C8CFF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=neural-nomad-lee&label=Profile%20views&color=6C8CFF&style=flat" alt="profile views" />
   <br/>
   <sub>Last updated: 2026-11-05 · 持续训练中</sub>
 </div>
